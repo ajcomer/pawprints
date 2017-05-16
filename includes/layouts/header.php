@@ -3,7 +3,7 @@
 
 <html lang="en">
 <head>
-  <title>paw prince</title>
+  <title>paw prints</title>
   <meta name="description" content="website description" />
   <meta name="keywords" content="website keywords, website keywords" />
   <meta http-equiv="content-type" content="text/html; charset=windows-1252" />
@@ -41,9 +41,13 @@
           <div class="sidebar_item">
             <!-- insert your sidebar items here -->
             <h3>Latest News</h3>
+		<h4>Uploaded to Github</h4>
+		<h5>5/16/2017</h5>
+		<p>Put Paw Prints code onto Github!</p>
+		  
 	        <h4>"PP" Launched</h4>
 	        <h5>July 18, 2015</h5>
-	        <p>Opened Paw Prince!</p>
+	        <p>Opened Paw Prints!</p>
           </div>
           <div class="sidebar_base"></div>
         </div>
